@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MaximeCerjak
-- 
+ 
 - 👀 I’m interested in lot of things...
 - In general I like evrything...
 - Music and dance ! (every kind of music, I listen music of everywhere, classic, rap, rock, pop, punk, zouk, desert blues, jazz... etc)
@@ -15,8 +15,9 @@
 
 
 - 💞️ My projects...
--I am very interested by pedagogy and sharing, I want to develop my skills in this direction to claim to become a good teacher.
-I want to develop learning games and e-learning platforms.  
+
+- I am very interested by pedagogy and sharing, I want to develop my skills in this direction to claim to become a good teacher.
+- I want to develop learning games and e-learning platforms.  
 
 
 - 📫 How to reach me : "maxpro.cerjak@gmail.com"
